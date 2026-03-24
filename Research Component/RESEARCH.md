@@ -1,7 +1,7 @@
 # ⚛️ Quantum Threats — Research Notes
 
 > **Topic:** Shor's Algorithm and the RSA-2048 Problem
-> **Date:** March 2026
+ 
 
 ---
 
